@@ -21,7 +21,7 @@ Apple Pay digitizes the payment information and uses two-factor authentication, 
 ![Wikipedia page about  Pay](https://en.wikipedia.org/wiki/Apple_Pay)
 On September 11, 2014, during the iPhone 6 keynote. Apple introduced Apple Wallet. 
 ![Apple September 2014 Event](https://www.youtube.com/watch?v=38IqQpwPe7s)(https://en.wikipedia.org/wiki/Apple_Pay)
-
+---
 ## Business Activities
 
 ### What specific financial problem was Apple attempting to solve.
@@ -46,7 +46,7 @@ However, Google Wallet uses a more traditional PIN based authentication system w
 The additional intended use is security and reduce credit card fraud. Both payment platforms doesn't share the customer's credit card information with the merchant reducing the chance of the credit card information falling into the wrong hands. Which in turn limits the financial institutions and/or merchants losses incurred from fraudulent transactions.
 The one glaring difference between Google Wallet and Pay is Google tracks your transactions and will use that information accross all of the Google's platforms which is part fo the Goggle's business model. Apple expressly states that they do not track your transactions. This is way Apple is very attractive to customers that take their privacy very seriously.
 ![Investopedia on Pay vs Google Wallet](https://www.investopedia.com/articles/personal-finance/010215/apple-pay-vs-google-wallet-how-they-work.asp#:~:text=Apple%20Pay%20and%20Google%20Wallet%20are%20Mobile%20Payment%20Systems.&text=Google%2C%20on%20the%20other%20hand,including%20Apple's%20own%20iPhone%205!)
-
+---
 ## Business Landscape
 ### What domain of the financial industry
 While companies like Apple and Google are technology companies that offer consumer electronics, they are now offering solutions in consumer banking industry. 
@@ -60,3 +60,10 @@ Since the launch of Pay in 2014, Apple holds a 15% market share on mobile dev
 ![Pay Stats & Facts](https://www.statista.com/topics/4322/apple-pay/)
 Currently Apple is the preferred mobile wallet provider at 13% compared to Goggle Wallet at 4% and Samsung at 3%. While traditional banks and credit card companies hold significant hold of marketshare, the increasing popularity of this payment method may offer advantages as a payment method.
 ![Moblie Wallet App consumer choice](https://www.statista.com/statistics/762650/preferred-provider-of-mobile-wallet-app-usa/)
+Unfortunately, there are credit card fraud taking place. The responsibility of detecting credit card fraud still lies with the issuer. ![Apple Pay Fraud](https://www.forbes.com/sites/thomasbrewster/2019/03/27/millions-are-being-lost-to-apple-pay-fraudwill-apple-card-come-to-the-rescue/?sh=7b9b4029622f)
+---
+## Recommendations
+With the increase in popularity with Pay, Apple should work with the credit card issuers on how best to confirm the identity of the card holder adding the credit card to Pay. So that the credit card is not able to be added to another Pay account, such as a form of two-factor authentication.
+Additionaly, I would start discussions with the credit card issuers and financial institutions to see how we can assist merchants, especially, the small businesses on how we can help adopt more contactless payment systems that can not only work with Pay, but other mobile platforms. Additionally, I would see if there can be incentives for merchants to bring in mobile payments availability, such as Pay, by way of reducing the fees merchants incure when a customer uses a credit or debit card because of the increase in security that is offered by mobile payments. Unfortunately, there is always the possibility of fraud taking place, but continuing to work on methods of reducing credit card fraud.
+
+In the end by reducing, and possibly eliminating, credit card fraud, the fees issuers charge merchants will help incentivise the adoption of mobile payments. 
