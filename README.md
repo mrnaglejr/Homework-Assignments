@@ -49,6 +49,7 @@ The one glaring difference between Google Wallet and Pay is Google tracks you
 ---
 ## Business Landscape
 ### What domain of the financial industry
+---
 While companies like Apple and Google are technology companies that offer consumer electronics, they are now offering solutions in consumer banking industry. 
 Apple's and Google's mobile payment platforms are challenging the financial institutions that offer consumer banking products to now offer contactless payment credit and debit cards as an alternative to Pay.
 Additionally, with the outbreak of the COVID-19 pandemic, contactless payments have increased. According to a study conducted by Mastercard, 79% of its customers used contactless payment in 2020 and 74% will continue to utilize contactless payments going forward.
