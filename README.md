@@ -10,8 +10,8 @@ Class Assignments
  Pay Case Study
 ---
 ## Overview and Origin
-Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. From 1977 through 2007,  focused on personal computers including the Apple II, Macintosh, iMac, and MacBook laptops. In 2001,  launched the iPod, which also coincided with the launch of iTunes. On January 9, 2007, Apple changed its name from "Apple Computer, Inc.", to just "Apple, Inc". During that announcement, Steve Jobs, introduced the iPhone as a cellular phone, music player and personal computer in one device. In 2008,  the App Store in order to sell third party applications.
-![Wikipedia page about Apple History](https://en.wikipedia.org/wiki/History_of_Apple_Inc.)
+
+Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. From 1977 through 2007,  focused on personal computers including the Apple II, Macintosh, iMac, and MacBook laptops. In 2001,  launched the iPod, which also coincided with the launch of iTunes. On January 9, 2007, Apple changed its name from "Apple Computer, Inc.", to just "Apple, Inc". During that announcement, Steve Jobs, introduced the iPhone as a cellular phone, music player and personal computer in one device. In 2008,  the App Store in order to sell third party applications. ![Wikipedia page about Apple History](https://en.wikipedia.org/wiki/History_of_Apple_Inc.)
 ---
 ## What is Pay and how it came about.
 
@@ -24,6 +24,7 @@ On September 11, 2014, during the iPhone 6 keynote. Apple introduced Apple Walle
 ## Business Activities
 
 ### What specific financial problem was Apple attempting to solve.
+
 Based upon an article in the **_The New York Times_** written by Jenna Wortham, Apple came up with the idea for Pay. 
 ![Mobile Wallet Article referenced during  keynote](https://www.nytimes.com/2013/07/28/technology/im-still-waiting-for-my-phone-to-become-my-wallet.html)
 
@@ -62,6 +63,7 @@ Currently Apple is the preferred mobile wallet provider at 13% compared to Goggl
 Unfortunately, there are credit card fraud taking place. The responsibility of detecting credit card fraud still lies with the issuer. ![Apple Pay Fraud](https://www.forbes.com/sites/thomasbrewster/2019/03/27/millions-are-being-lost-to-apple-pay-fraudwill-apple-card-come-to-the-rescue/?sh=7b9b4029622f)
 ---
 ## Recommendations
+
 With the increase in popularity with Pay, Apple should work with the credit card issuers on how best to confirm the identity of the card holder adding the credit card to Pay. So that the credit card is not able to be added to another Pay account, such as a form of two-factor authentication.
 Additionally, I would start discussions with the credit card issuers and financial institutions to see how we can assist merchants, especially, the small businesses on how we can help adopt more contactless payment systems that can not only work with Pay, but other mobile platforms. Additionally, I would see if there can be incentives for merchants to bring in mobile payments availability, such as Pay, by way of reducing the fees merchants incur when a customer uses a credit or debit card because of the increase in security that is offered by mobile payments. Unfortunately, there is always the possibility of fraud taking place, but continuing to work on methods of reducing credit card fraud.
 
