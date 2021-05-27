@@ -15,7 +15,7 @@ Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayn
 ---
 ## What is Pay and how it came about.
 
-In 2013, Apple started to get involved in mobile payments by joining forces with Visa, Mastercard and American Express to replace the tranditional information-sharing transaction system with a single-use "token" system. ![Yahoo Finance brief history about Apple Pay](https://finance.yahoo.com/news/brief-history-apple-apos-payment-182700212.html)
+In 2013, Apple started to get involved in mobile payments by joining forces with Visa, Mastercard and American Express to replace the traditional information-sharing transaction system with a single-use "token" system. ![Yahoo Finance brief history about Apple Pay](https://finance.yahoo.com/news/brief-history-apple-apos-payment-182700212.html)
 Apple Pay digitizes the payment information and uses two-factor authentication, such as, Face ID, Touch ID or a passcode.
 ![Wikipedia page about  Pay](https://en.wikipedia.org/wiki/Apple_Pay)
 On September 11, 2014, during the iPhone 6 keynote. Apple introduced Apple Wallet. 
@@ -33,13 +33,13 @@ Additionally, Pay can used to make purchases on websites that accept Pay a
 
 Since the merchant doesn't see the credit card information whether during a point of sale transaction or online transaction, this increases the security of the payment transaction so that the credit card information can't be used fraudulently.
 
-Now Pay can be used accross the other devices, such as Apple Watch, iPad, iMac, and Macbook
+Now Pay can be used across the other devices, such as Apple Watch, iPad, iMac, and MacBook
 
 ![Apple September 2014 Event](https://www.youtube.com/watch?v=38IqQpwPe7s)(https://en.wikipedia.org/wiki/Apple_Pay)
 ![Wikipedia page about  Pay](https://en.wikipedia.org/wiki/Apple_Pay)
 ---
 ### Who was Pay intended to service
-Pay was indended to be used by customers that owned an iPhone, iPad, and/or a Mac computer.
+Pay was intended to be used by customers that owned an iPhone, iPad, and/or a Mac computer.
 Google Wallet is Google's mobile payment. Both systems allow contactless payments using NFC technology.
 However, Google Wallet uses a more traditional PIN based authentication system which allows for older mobile devices. 
 The additional intended use is security and reduce credit card fraud. Both payment platforms doesn't share the customer's credit card information with the merchant reducing the chance of the credit card information falling into the wrong hands. Which in turn limits the financial institutions and/or merchants losses incurred from fraudulent transactions.
@@ -63,6 +63,6 @@ Unfortunately, there are credit card fraud taking place. The responsibility of d
 ---
 ## Recommendations
 With the increase in popularity with Pay, Apple should work with the credit card issuers on how best to confirm the identity of the card holder adding the credit card to Pay. So that the credit card is not able to be added to another Pay account, such as a form of two-factor authentication.
-Additionaly, I would start discussions with the credit card issuers and financial institutions to see how we can assist merchants, especially, the small businesses on how we can help adopt more contactless payment systems that can not only work with Pay, but other mobile platforms. Additionally, I would see if there can be incentives for merchants to bring in mobile payments availability, such as Pay, by way of reducing the fees merchants incure when a customer uses a credit or debit card because of the increase in security that is offered by mobile payments. Unfortunately, there is always the possibility of fraud taking place, but continuing to work on methods of reducing credit card fraud.
+Additionally, I would start discussions with the credit card issuers and financial institutions to see how we can assist merchants, especially, the small businesses on how we can help adopt more contactless payment systems that can not only work with Pay, but other mobile platforms. Additionally, I would see if there can be incentives for merchants to bring in mobile payments availability, such as Pay, by way of reducing the fees merchants incur when a customer uses a credit or debit card because of the increase in security that is offered by mobile payments. Unfortunately, there is always the possibility of fraud taking place, but continuing to work on methods of reducing credit card fraud.
 
-In the end by reducing, and possibly eliminating, credit card fraud, the fees issuers charge merchants will help incentivise the adoption of mobile payments. 
+In the end by reducing, and possibly eliminating, credit card fraud, the fees issuers charge merchants will help incentives the adoption of mobile payments. 
