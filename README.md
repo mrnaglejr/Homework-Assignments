@@ -10,7 +10,7 @@ Class Assignments
  Pay Case Study
 ---
 ## Overview and Origin
-Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. From 1977 through 2007,  focused on personal computers including the Appe II, Macintosh, iMac, and MacBook laptops. In 2001,  launched the iPod, which also coinsided with the launch of iTunes. On January 9, 2007, Apple changed its name from "Apple Computer, Inc.", to just "Apple, Inc". During that announcement, Steve Jobs, introduced the iPhone as a cellular phone, music player and personal computer in one device. In 2008,  the App Store in order to sell third party applications.
+Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. From 1977 through 2007,  focused on personal computers including the Apple II, Macintosh, iMac, and MacBook laptops. In 2001,  launched the iPod, which also coinsided with the launch of iTunes. On January 9, 2007, Apple changed its name from "Apple Computer, Inc.", to just "Apple, Inc". During that announcement, Steve Jobs, introduced the iPhone as a cellular phone, music player and personal computer in one device. In 2008,  the App Store in order to sell third party applications.
 ![Wikipedia page about Apple History](https://en.wikipedia.org/wiki/History_of_Apple_Inc.)
 
 ---
@@ -25,7 +25,7 @@ On September 11, 2014, during the iPhone 6 keynote. Apple introduced Apple Walle
 ## Business Activities
 
 ### What specific financial problem was Apple attempting to solve.
-Based upon and article in the **_The New York Times_** writting by Jenna Wortham, Apple came up with the idea for Pay. 
+Based upon an article in the **_The New York Times_** writting by Jenna Wortham, Apple came up with the idea for Pay. 
 ![Mobile Wallet Article referenced during  keynote](https://www.nytimes.com/2013/07/28/technology/im-still-waiting-for-my-phone-to-become-my-wallet.html)
 
 On September 11, 2014, during the iPhone 6 keynote. Apple introduced Pay. Eddy Cue demonstrated how Pay will work with the current version of iPhone, iPhone 6. A Near field communication (NFC) antenna was built into the iPhone 6 device to work with the current Touch ID and Secure Element that stores all of the credit card information within the Passbook app that is secure and private. When you upgraded to the new iPhone 6, you had the option of taking the payment information that was already stored in the customer's iTunes account, or you can add a credit or debit card using the camera app and would confirm with the financial institution that you are that cardholder. As a security feature, Pay doesn't store the credit card number on the iPhone or pass along the credit card number to the merchant. It creates a device only account number and stores the information within the secure element in the iPhone and provides a one time payment number and dynamic security code to the merchant. When you lost your iPhone you can suspend the card(s) saved on the device without having to replace your credit card. Also, as a privacy feature, Apple doesn't store your credit card information, the merchant you purchased from or the amount you spent. That information was only between the customer, the financial institution and the merchant.
