@@ -10,7 +10,7 @@ Class Assignments
  Pay Case Study
 ---
 ## Overview and Origin
-* Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. From 1977 through 2007,  focused on personal computers including the Appe II, Macintosh, iMac, and MacBook laptops. In 2001,  launched the iPod, which also coinsided with the launch of iTunes. On January 9, 2007, Apple changed its name from "Apple Computer, Inc.", to just "Apple, Inc". During that announcement, Steve Jobs, introduced the iPhone as a cellular phone, music player and personal computer in one device. In 2008,  the App Store in order to sell third party applications.
+Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. From 1977 through 2007,  focused on personal computers including the Appe II, Macintosh, iMac, and MacBook laptops. In 2001,  launched the iPod, which also coinsided with the launch of iTunes. On January 9, 2007, Apple changed its name from "Apple Computer, Inc.", to just "Apple, Inc". During that announcement, Steve Jobs, introduced the iPhone as a cellular phone, music player and personal computer in one device. In 2008,  the App Store in order to sell third party applications.
 ![Wikipedia page about Apple History](https://en.wikipedia.org/wiki/History_of_Apple_Inc.)
 
 ---
