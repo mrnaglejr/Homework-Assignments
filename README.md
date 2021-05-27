@@ -11,14 +11,23 @@ Class Assignments
 ---
 ## Overview and Origin
 
-Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. From 1977 through 2007,  focused on personal computers including the Apple II, Macintosh, iMac, and MacBook laptops. In 2001,  launched the iPod, which also coincided with the launch of iTunes. On January 9, 2007, Apple changed its name from "Apple Computer, Inc.", to just "Apple, Inc". During that announcement, Steve Jobs, introduced the iPhone as a cellular phone, music player and personal computer in one device. In 2008,  the App Store in order to sell third party applications. ![Wikipedia page about Apple History](https://en.wikipedia.org/wiki/History_of_Apple_Inc.)
----
+
+Apple was founded on April 1, 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. From 1977 through 2007,  focused on personal computers including the Apple II, Macintosh, iMac, and MacBook laptops. In 2001,  launched the iPod, which also coincided with the launch of iTunes. On January 9, 2007, Apple changed its name from "Apple Computer, Inc.", to just "Apple, Inc". During that announcement, Steve Jobs, introduced the iPhone as a cellular phone, music player and personal computer in one device. In 2008,  the App Store in order to sell third party applications. 
+
+
+![Wikipedia page about Apple History](https://en.wikipedia.org/wiki/History_of_Apple_Inc.)
+
+
 ## What is Pay and how it came about.
 
-In 2013, Apple started to get involved in mobile payments by joining forces with Visa, Mastercard and American Express to replace the traditional information-sharing transaction system with a single-use "token" system. ![Yahoo Finance brief history about Apple Pay](https://finance.yahoo.com/news/brief-history-apple-apos-payment-182700212.html)
+In 2013, Apple started to get involved in mobile payments by joining forces with Visa, Mastercard and American Express to replace the traditional information-sharing transaction system with a single-use "token" system. 
+
+![Yahoo Finance brief history about Apple Pay](https://finance.yahoo.com/news/brief-history-apple-apos-payment-182700212.html)
+
 Apple Pay digitizes the payment information and uses two-factor authentication, such as, Face ID, Touch ID or a passcode.
 ![Wikipedia page about  Pay](https://en.wikipedia.org/wiki/Apple_Pay)
 On September 11, 2014, during the iPhone 6 keynote. Apple introduced Apple Wallet. 
+
 ![Apple September 2014 Event](https://www.youtube.com/watch?v=38IqQpwPe7s)(https://en.wikipedia.org/wiki/Apple_Pay)
 ---
 ## Business Activities
@@ -37,15 +46,20 @@ Since the merchant doesn't see the credit card information whether during a poin
 Now Pay can be used across the other devices, such as Apple Watch, iPad, iMac, and MacBook
 
 ![Apple September 2014 Event](https://www.youtube.com/watch?v=38IqQpwPe7s)(https://en.wikipedia.org/wiki/Apple_Pay)
+
 ![Wikipedia page about  Pay](https://en.wikipedia.org/wiki/Apple_Pay)
 ---
 ### Who was Pay intended to service
+
+
 Pay was intended to be used by customers that owned an iPhone, iPad, and/or a Mac computer.
 Google Wallet is Google's mobile payment. Both systems allow contactless payments using NFC technology.
 However, Google Wallet uses a more traditional PIN based authentication system which allows for older mobile devices. 
 The additional intended use is security and reduce credit card fraud. Both payment platforms doesn't share the customer's credit card information with the merchant reducing the chance of the credit card information falling into the wrong hands. Which in turn limits the financial institutions and/or merchants losses incurred from fraudulent transactions.
 The one glaring difference between Google Wallet and Pay is Google tracks your transactions and will use that information across all of the Google's platforms which is part fo the Goggle's business model. Apple expressly states that they do not track your transactions. This is way Apple is very attractive to customers that take their privacy very seriously.
+
 ![Investopedia on Pay vs Google Wallet](https://www.investopedia.com/articles/personal-finance/010215/apple-pay-vs-google-wallet-how-they-work.asp#:~:text=Apple%20Pay%20and%20Google%20Wallet%20are%20Mobile%20Payment%20Systems.&text=Google%2C%20on%20the%20other%20hand,including%20Apple's%20own%20iPhone%205!)
+
 ---
 ## Business Landscape
 ### What domain of the financial industry
@@ -53,15 +67,28 @@ The one glaring difference between Google Wallet and Pay is Google tracks you
 While companies like Apple and Google are technology companies that offer consumer electronics, they are now offering solutions in consumer banking industry. 
 Apple's and Google's mobile payment platforms are challenging the financial institutions that offer consumer banking products to now offer contactless payment credit and debit cards as an alternative to Pay.
 Additionally, with the outbreak of the COVID-19 pandemic, contactless payments have increased. According to a study conducted by Mastercard, 79% of its customers used contactless payment in 2020 and 74% will continue to utilize contactless payments going forward.
+
 ![Contactless payment trends](https://explodingtopics.com/blog/credit-card-industry-trends)
+
+
 ### How is Pay performing
+
+
 With the benefits of mobile wallet systems, such as Pay, slowly people are moving towards using their smartphones and smart watches as a form of payment at everyday merchants.
-Since the launch of Pay in 2014, Apple holds a 15% market share on mobile devices. It is estimated that 50% of online purchases were made using a mobile device since 2014. Analyst estimate that 10% of all card transactions will be performed on Pay by 2025.
-Pay is growing with both retailers and applications. Pay has outgrown PayPal by a 4 to 1 margin. ![Pay Trends 2020](https://www.hostmerchantservices.com/2020/09/apple-pay-trends-and-updates-fall-2020/)
+Since the launch of Pay in 2014, Apple holds a 15% market share on mobile devices. It is estimated that 50% of online purchases were made using a mobile device since 2014. Analyst estimate that 10% of all card transactions will be performed on Pay by 2025.Pay is growing with both retailers and applications. Pay has outgrown PayPal by a 4 to 1 margin. 
+
+![Pay Trends 2020](https://www.hostmerchantservices.com/2020/09/apple-pay-trends-and-updates-fall-2020/)
+
 ![Pay Stats & Facts](https://www.statista.com/topics/4322/apple-pay/)
+
 Currently Apple is the preferred mobile wallet provider at 13% compared to Goggle Wallet at 4% and Samsung at 3%. While traditional banks and credit card companies hold significant hold of marketshare, the increasing popularity of this payment method may offer advantages as a payment method.
+
 ![Moblie Wallet App consumer choice](https://www.statista.com/statistics/762650/preferred-provider-of-mobile-wallet-app-usa/)
-Unfortunately, there are credit card fraud taking place. The responsibility of detecting credit card fraud still lies with the issuer. ![Apple Pay Fraud](https://www.forbes.com/sites/thomasbrewster/2019/03/27/millions-are-being-lost-to-apple-pay-fraudwill-apple-card-come-to-the-rescue/?sh=7b9b4029622f)
+
+Unfortunately, there are credit card fraud taking place. The responsibility of detecting credit card fraud still lies with the issuer. 
+
+![Apple Pay Fraud](https://www.forbes.com/sites/thomasbrewster/2019/03/27/millions-are-being-lost-to-apple-pay-fraudwill-apple-card-come-to-the-rescue/?sh=7b9b4029622f)
+
 ---
 ## Recommendations
 
